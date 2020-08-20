@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "First stream updated",
+      "description": "Test user id",
+      "id": 2
+    },
+    {
+      "title": "Neww",
+      "description": "new",
+      "userId": "115968753361724437393",
+      "id": 3
+    },
+    {
+      "title": "Test",
+      "description": "Test",
+      "userId": "117726511692629855124",
+      "id": 4
+    }
+  ]
+}
